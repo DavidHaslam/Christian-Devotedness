@@ -8,3 +8,5 @@ You do not need to request permission to translate this work. It is in the **Pub
 The initial uploads are in HTM format and are an exact copy of what was in my old **UK Online** website.
 
 The copy available at [Project Gutenberg](https://www.gutenberg.org/ebooks/24293) was derived from the material at my old website.
+
+See also https://web.archive.org/web/20070821120640/http://www.wellofoath.com/home.asp?pg=Bios&toc=Anthony+Norris+Groves
